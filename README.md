@@ -7,7 +7,7 @@
             <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=painkoleo&layout=compact&theme=dracula">
         </td>
     </tr>
-</table>
+
 <div style="display: inline_block"><br>
     <img align="center" alt="C++" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
     <img align="center" alt="Csharp" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
@@ -18,3 +18,4 @@
     <img align="center" alt="Ruby" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-plain.svg" />
     <img align="center" alt="GO" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
 </div>
+</table>
