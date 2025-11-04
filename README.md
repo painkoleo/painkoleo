@@ -38,11 +38,9 @@ Confira alguns dos meus projetos mais recentes ou favoritos que demonstram minha
 <table>
     <tr>
         <td>
-            <a href="https://github.com/painkoleo">
             <img height="180em" src="https://github-readme-stats.vercel.app/api?username=painkoleo&show_icons=true&theme=dracula">
         </td>
         <td>
-            <a href="https://github.com/painkoleo">
             <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=painkoleo&layout=compact&theme=dracula">
         </td>
     </tr>
