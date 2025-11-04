@@ -31,7 +31,7 @@ Confira alguns dos meus projetos mais recentes ou favoritos que demonstram minha
 
 * [**Portal de Noticias**] - <a href="https://painkoleo.github.io/portal-de-noticias">Acesse aqui</a> - Simples portal de noticias com um pouco do meu aprendizado em html e css.
 * [**Receita de cupcake**] - <a href="https://painkoleo.github.io/receita-de-cupcake">Acesse aqui</a> - Projeto simples em html e css.
-[**📺 Gerenciador de Aulas 2.0 (C#/WPF)**] - <a href=https://github.com/painkoleo/Gerenciador_Aulas>Link do repositório</a> - Aplicação de Desktop em **C# (WPF)** para rastreamento de progresso e reprodução de vídeos/aulas. Excelente demonstração de **MVVM**, Injeção de Dependência e arquitetura orientada a serviços.
+* [**📺 Gerenciador de Aulas 2.0 (C#/WPF)**] - <a href=https://github.com/painkoleo/Gerenciador_Aulas>Link do repositório</a> - Aplicação de Desktop em **C# (WPF)** para rastreamento de progresso e reprodução de vídeos/aulas. Excelente demonstração de **MVVM**, Injeção de Dependência e arquitetura orientada a serviços.
 ---
 
 ### 🔥 Estatísticas do GitHub
