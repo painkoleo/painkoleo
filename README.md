@@ -1,50 +1,62 @@
-# 👋 Olá! Eu sou o Leonardo
+# Olá! Eu Sou Leonardo, Desenvolvedor Full-Stack em Foco
 
-### 🧑‍💻 Sobre Mim
-Estudante dedicado, atualmente focado no **Desenvolvimento Web Full-Stack** e **C#** (Framework .NET). Meu objetivo é construir aplicações web robustas e escaláveis, dominando todas as camadas de desenvolvimento.
-* 🔭 **Atualmente focado em:** Dominar **C# (.NET)** para o Back-end e **JavaScript** (junto com HTML/CSS) para o Front-end, criando APIs RESTful e interfaces dinâmicas.
-* 🌱 **Sempre aprendendo:** Frameworks Front-End (como React/Angular/Vue) e as melhores práticas de Banco de Dados.
-* 🤝 **Buscando ativamente:** Oportunidades de colaboração em projetos (open-source ou não) para aplicar e expandir meus conhecimentos.
-* 📫 **Como me encontrar:** [**Meu E-mail**](mailto:ilikepies@protonmail.com)
+### Minha Proposta
+
+Sou um **Estudante de Desenvolvimento Web** dedicado e atualmente focado na construção de **aplicações Full-Stack robustas e escaláveis**. Meu pilar principal é a combinação de **C#/.NET** e **Python** para o Back-end, junto com **JavaScript, HTML e CSS** para interfaces Front-end dinâmicas.
 
 ---
 
-### 🛠️ Minhas Habilidades Técnicas
+## Foco e Objetivos Atuais
 
-> As linguagens e tecnologias com as quais eu mais trabalho e estudo.
-
-<div style="display: inline_block"><br>
-    <img align="center" alt="C++" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-    <img align="center" alt="Csharp" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-    <img align="center" alt="Python" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
-    <img align="center" alt="GO" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
-    <img align="center" alt="css3" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-    <img align="center" alt="html5" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-    <img align="center" alt="Js" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-    <img align="center" alt="Ruby" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-plain.svg" />
-    <img align="center" alt="Rails" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain.svg" />
-
-
-</div>
+* **Back-end Expertise:** Dominar o ecossistema **C# (.NET)** para arquitetar e desenvolver APIs RESTful, e aprofundar em **Python** para scripts e soluções Back-end.
+* **Front-end Foundation:** Aprofundar o conhecimento em **JavaScript** e no desenvolvimento de interfaces de usuário responsivas.
+* **Next Steps:** Imersão em frameworks Front-End modernos (como **React** ou **Vue.js**) e otimização de consultas e modelagem de **Banco de Dados**.
+* **Colaboração:** Busco ativamente oportunidades de **colaboração** em projetos (open-source ou não) para aplicar e expandir minhas habilidades em um ambiente real de desenvolvimento.
 
 ---
 
-### 💡 Destaque de Projetos
-Confira alguns dos meus projetos mais recentes ou favoritos que demonstram minhas habilidades em C# e Web Development.
+## Minha Stack Principal
 
-* [**Portal de Noticias**] - <a href="https://painkoleo.github.io/portal-de-noticias">Acesse aqui</a> - Simples portal de noticias com um pouco do meu aprendizado em html e css.
-* [**Receita de cupcake**] - <a href="https://painkoleo.github.io/receita-de-cupcake">Acesse aqui</a> - Projeto simples em html e css.
-* [**📺 Gerenciador de Aulas 2.0 (C#/WPF)**] - <a href=https://github.com/painkoleo/Gerenciador_Aulas>Link do repositório</a> - Aplicação de Desktop em **C# (WPF)** para rastreamento de progresso e reprodução de vídeos/aulas. Excelente demonstração de **MVVM**, Injeção de Dependência e arquitetura orientada a serviços.
+> Tecnologias e linguagens com as quais eu mais trabalho, estudo e busco aplicar em meus projetos.
+
+<p align="center">
+    <img align="center" alt="Csharp" title="C#" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+    <img align="center" alt=".NET" title=".NET" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" />
+    <img align="center" alt="Python" title="Python" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
+    <img align="center" alt="JavaScript" title="JavaScript" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    <img align="center" alt="HTML5" title="HTML5" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+    <img align="center" alt="CSS3" title="CSS3" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    <img align="center" alt="Go" title="Go" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
+    <img align="center" alt="Ruby" title="Ruby" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-plain.svg" />
+    <img align="center" alt="Rails" title="Ruby on Rails" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain.svg" />
+</p>
+
 ---
 
-### 🔥 Estatísticas do GitHub
-<table>
-    <tr>
-        <td>
-            <img height="180em" src="https://github-readme-stats.vercel.app/api?username=painkoleo&show_icons=true&theme=dracula">
-        </td>
-        <td>
-            <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=painkoleo&layout=compact&theme=dracula">
-        </td>
-    </tr>
-</table>
+## Projetos em Destaque
+
+Confira meus projetos que melhor demonstram minhas habilidades em C# (.NET) e Desenvolvimento Web:
+
+| Projeto | Tecnologia Principal | Demonstração/Repositório | Descrição |
+| :--- | :--- | :--- | :--- |
+| **Gerenciador de Aulas 2.0** | **C# / WPF / .NET** | [**Repositório**](https://github.com/painkoleo/Gerenciador_Aulas) | Aplicação Desktop que demonstra a arquitetura **MVVM**, Injeção de Dependência e boas práticas de desenvolvimento em C#. |
+| **Portal de Notícias Simples** | HTML / CSS | [**Acesse Aqui**](https://painkoleo.github.io/portal-de-noticias) | Um projeto Web estático focado na construção de layouts responsivos e semânticos. |
+| **Receita de Cupcake** | HTML / CSS | [**Acesse Aqui**](https://painkoleo.github.io/receita-de-cupcake) | Demonstração inicial de habilidades de marcação e estilização de conteúdo. |
+
+---
+
+## Estatísticas
+
+<p align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=painkoleo&show_icons=true&theme=dracula&count_private=true&hide_border=true">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=painkoleo&layout=compact&theme=dracula&hide_border=true">
+</p>
+
+---
+
+## Contato
+
+Interessado em colaborar ou discutir oportunidades?
+
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:painkoleo@protonmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN)
